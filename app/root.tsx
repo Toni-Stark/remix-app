@@ -23,7 +23,7 @@ export default function App() {
         <Links />
       </head>
       <body>
-        <Link to="/posts">Posts</Link>
+        <Link to="/admin">Admin</Link>
         <Outlet />
         <ScrollRestoration />
         <Scripts />
